@@ -1,0 +1,11 @@
+# ignore json files
+*.csv
+
+# ignore models folder
+models/
+
+# ignore .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# ignore .DS_Store
+.DS_Store
